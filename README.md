@@ -15,5 +15,7 @@ It is a program written by Python 3.7 that can analyze the current trend of taiw
 6. In other day, just run ```python3 schedule.py``` to analyze daily stock data.
 7. Find the result from the /data/result/result-xxxx.csv.
 
+Because I am quite lazy, don't forget to change the in schedule.py and history.py.
+
 # Caution
 The author couldn't guarantee the result are all correct. Discreet investment is suggested for the risk of the stock market.
