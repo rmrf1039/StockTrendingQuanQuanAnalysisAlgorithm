@@ -18,4 +18,4 @@ It is a program written by Python 3.7 that can analyze the current trend of taiw
 Because I am quite lazy, don't forget to change the analyzed date in schedule.py and history.py.
 
 # Caution
-The author couldn't guarantee the result are all correct. Discreet investment is suggested for the risk of the stock market.
+Discreet investment is suggested for the risk of the stock market.
